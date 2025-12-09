@@ -1,0 +1,2 @@
+This is a new file for lec7 (09122025).
+I have updated the commit as instructed into a single commit.
